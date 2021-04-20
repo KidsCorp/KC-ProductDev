@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-20T17:21:27.166Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="rZeMxgePxe2gtF2nE9Eo" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-20T17:25:32.108Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="KCyCdXNMxMpLVnsIJzR8" version="14.6.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="803" dy="367" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2812" dy="1286" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -87,6 +87,12 @@
         </mxCell>
         <mxCell id="SEjmEf93t8HTyFmCqNNb-31" value="&lt;b&gt;Goal: Primer reporte de impacto de&lt;br&gt;supply en la demanda, basado en&lt;br&gt;una integración (Tag, API)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1340" y="574" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SEjmEf93t8HTyFmCqNNb-32" value="&lt;b&gt;KR: Precisión y performance&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1645" y="465" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SEjmEf93t8HTyFmCqNNb-33" value="&lt;b&gt;KR: Performance de contenido y&lt;br&gt;relevancia para quien compra&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1635" y="586" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
